@@ -1,3 +1,3 @@
 #!/bin/sh
 
-dot -Tpng -O *.dot
+dot -Tpng -O ${1}.dot

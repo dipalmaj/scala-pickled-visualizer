@@ -414,7 +414,7 @@ class PickleProcessor(clazz: Class[_]) {
     map(Flags.MIXEDIN, "MIXEDIN")
     map(Flags.EXISTENTIAL, "EXISTENTIAL")
     map(Flags.EXPANDEDNAME, "EXPANDEDNAME")
-    map(Flags.IMPLCLASS, "IMPLCLASS")
+    // map(Flags.IMPLCLASS, "IMPLCLASS")
     map(Flags.PRESUPER, "PRESUPER")
     map(Flags.TRANS_FLAG, "TRANS_FLAG")
     map(Flags.LOCKED, "LOCKED")
